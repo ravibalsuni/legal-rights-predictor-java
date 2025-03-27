@@ -1,0 +1,1 @@
+# legal-rights-predictor-java
