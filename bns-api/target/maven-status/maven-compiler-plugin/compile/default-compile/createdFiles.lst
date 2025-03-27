@@ -1,0 +1,5 @@
+com\example\bnsapi\BnsRepository.class
+com\example\bnsapi\BnsSection.class
+com\example\bnsapi\BnsApiApplication.class
+com\example\bnsapi\BnsController.class
+com\example\bnsapi\BnsService.class
